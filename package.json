@@ -1,0 +1,39 @@
+{
+  "name": "javascript-utility",
+  "version": "1.0.0",
+  "description": "utils function for js ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunilyadav8/js-utils.git"
+  },
+  "keywords": [
+    "javascript",
+    "utils",
+    "helper",
+    "array",
+    "string",
+    "number",
+    "sort",
+    "filter",
+    "sunil",
+    "sunilyadav"
+  ],
+  "author": "sunilyadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunilyadav8/js-utils/issues"
+  },
+  "homepage": "https://github.com/sunilyadav8/js-utils#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.24",
+    "jest": "^27.0.6",
+    "ts-jest": "^27.0.4",
+    "typescript": "^4.3.5"
+  }
+}
